@@ -9,6 +9,7 @@ https://github.com/1000ch/linter-textlint/issues/6
 ```
 git clone https://github.com/azu/linter-textlint-issue-6.git
 cd linter-textlint-issue-6
+npm i
 atom .
 # README.meを見る
 ```
